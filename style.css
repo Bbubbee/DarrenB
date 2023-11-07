@@ -1,0 +1,56 @@
+
+
+
+
+* {
+    background-color: #3A4D39;
+    color: #ECE3CE;
+}
+
+.education-container {
+    padding: 100px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2fr 1fr 1fr;
+    gap: 10px;
+    height: 100px;
+}
+
+.item {
+    background-color: #739072;
+    padding: 20px; 
+    border-radius: 5px;
+}
+
+.title {
+    grid-column: span 3;
+}
+
+hr {
+    margin: 0;
+    color: #4F6F52;
+}
+
+a {
+    color: hotpink;
+    text-decoration: none;
+}
+
+.nav-link {
+    color: hotpink;
+
+}
+
+.nav-link:hover {
+    color: hotpink;
+}
+
+.nav-link:visited {
+    color: hotpink;
+}
+
+
+
+
+
+

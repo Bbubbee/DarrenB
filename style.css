@@ -49,8 +49,30 @@ a {
     color: hotpink;
 }
 
+.myButtons {
+    margin-top: 25px; 
+    color: #3A4D39;
+    border-color: #3A4D39;
+    background-color: #ECE3CE;
+}
+
+.myButtons:hover {
+    background-color: #b3ac9b;
+    border-color: #3A4D39;
+}
+
+.portfolio {
+    width: 100%;
+}
+
+.card-body > h5 {
+    color: #ECE3CE;
+}
 
 
+.port-h2 {
+    padding-bottom: 2rem;
+}
 
 
 
